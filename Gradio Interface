@@ -4,7 +4,7 @@ import numpy as np
 from PIL import Image
 
 # Load the saved model
-model = tf.keras.models.load_model('brain_tumor_model.h5')
+model = tf.keras.models.load_model('brain_tumor_classification.h5')
 
 # Preprocessing function
 def preprocess_image(image):
