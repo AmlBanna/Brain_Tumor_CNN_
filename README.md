@@ -7,6 +7,11 @@ This project focuses on the **detection of brain tumors** from grayscale MRI ima
 ## 📌 Problem Statement
 
 Interpreting brain MRI scans is a complex task prone to human error due to various factors like tumor size and image quality. This project addresses this challenge by implementing a deep learning solution capable of reliable and consistent classification.
+## 🎥 Deployment / Demo Video
+
+[![Watch the demo](https://img.icons8.com/clouds/100/000000/video.png)](https://drive.google.com/file/d/1BPAN-FWCPQz2eJ9JrkswuKHV6bkjKObb/view?usp=drive_link)
+
+Click the image or [this link](https://drive.google.com/file/d/1BPAN-FWCPQz2eJ9JrkswuKHV6bkjKObb/view?usp=drive_link) to watch the deployment video on Google Drive.
 
 ## 🎯 Objective
 
